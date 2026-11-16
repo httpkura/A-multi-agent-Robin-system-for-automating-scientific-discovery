@@ -1,8 +1,6 @@
-# A-multi-agent-Robin-system-for-automating-scientific-discovery
+# Robin-ILD: From Hypothesis Generation to Diagnosis with Multi-Agent LLMs.
 
-# Robin-ILD: Agentic, Guideline-Grounded Diagnosis of Interstitial Lung Disease from CT
-
-MSc thesis — AI in Medicine, University of Bern
+MSc thesis — AI, University of Bern
 Author: Apoorv Patel
 
 ## Overview
